@@ -23,6 +23,7 @@ Ansible: Instalado en el nodo de control.
 
 
 - Este playbook instala Docker, inicia el servicio .
+
 ![Docker and Ansible](/img/1.png)
 
 
